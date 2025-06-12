@@ -1,0 +1,17 @@
+.ts-blue-box{
+    height: 45px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+.alarm-clock-icon{
+    height: 35px;
+    width: 35px;
+}
+.ts-con{
+    background-color: #e3ecfa;
+    width: 100vw;
+    height: 250vh;
+}

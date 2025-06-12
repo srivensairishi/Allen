@@ -1,0 +1,116 @@
+.co-bg-1{
+    background-color: #eef2fa;
+    width: 100vw;
+    height: 320vh;
+    padding: 50px;
+}
+.co-heading{
+    font-weight: bold;
+
+}
+.co-para{
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+.co-first{
+    display: flex;
+    justify-content: space-between;
+}
+.image-1{
+    width: 400px;
+    height: 250px;
+ 
+}
+.co-button{
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    color: darkgreen;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    border-radius: 150px;
+    cursor: pointer;
+}
+.co-scholarship{
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkgreen;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.yellow-text{
+    color: yellow;
+    font-weight: bold;
+}
+.white-text{
+    color: white;
+    font-weight: bold;
+}
+
+.co-cards-con{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.co-card{
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.co-card-heading{
+    padding: 30px;
+}
+.co-card-button{
+    border: none;
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+    height: 50px;
+    width: 200px;
+    border-radius: 150px;
+    font-size: 20px;
+    font-family: "roboto", sans-serif;
+}
+.added-benefits-con{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.lamp-image{
+    height: 400px;
+    width: 400px;
+}
+.list{
+    list-style-type: disc;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.co-special-con{
+    border-radius: 30px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.co-special-image{
+    height: 200px;
+    width: 200px;
+}
+.co-coaching-image{
+    height: 30px;
+    width: 30px;
+
+}
+.co-coaching-button{
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    border-radius: 20px;
+}

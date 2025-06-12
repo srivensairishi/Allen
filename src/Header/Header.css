@@ -1,0 +1,66 @@
+.logo{
+    height: 40px;
+    width: 120px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+}
+.header-button{
+    background-color: #f8f9fa;;
+    border: none;
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.header-button:hover{
+    background-color: #f8f9fa;
+    border: none;
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-button{
+    height: 50px;
+    width: 80px;
+    border-radius: 150px;
+    margin-left: 10px;
+    font-weight: bold;
+    border: 3px solid #007bff;
+}
+.login-button:hover{
+    height: 50px;
+    width: 80px;
+    border-radius: 150px;
+    background-color: lightgrey;
+    margin-left: 10px;
+    font-weight: bold;
+    border: 3px solid #007bff;
+}
+.call-logo-container{
+    background-color: black;
+    border-radius: 150px;
+    height: 50px;
+    width: 50px;
+}
+.call-logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 150px;
+}
+.call-login-flex{
+    display: flex;
+}
